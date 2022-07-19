@@ -1,5 +1,5 @@
 # PROJETO-SEMAFARO-SISTEMA-DIGITAIS
-Projeto de um controlador de semaforos por meio de um circuito digital
+Projeto, realizado em grupo, de um controlador de semaforos por meio de um circuito digital 
 
 Faça um projeto que permita controlar os semáforos de 4 (quatro) ruas – A, B, C e D. Cada rua deve possuir seu 
 semáforo com as cores Verde, Vermelho e Amarelo (led’s), sendo a temporização do sinal ATIVO da seguinte forma:
@@ -21,3 +21,4 @@ Neste projeto foram utilizados os seguintes materiais:
 7) 04 portas NOR;
 8) 01 porta NAND;
 9) 01 porta NOT;
+
